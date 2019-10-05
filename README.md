@@ -21,6 +21,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 - `B` [Fibonnaci](javascript/fibonnaci.js)
 - `B` [quickSort](javascript/quickSort.js)
 - `B` [heapSort](javascript/heapSort.js)
+- `B` [palindrome]((javascript/palindrome.js))
 
 ## Python 3
 
